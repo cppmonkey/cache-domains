@@ -21,6 +21,11 @@
       "domain_files": ["bsg.txt"]
     },
     {
+      "name": "centos",
+      "description": "Mirrors for CentOS",
+      "domain_files": ["centos.txt"]
+    },
+    {
       "name": "cityofheroes",
       "description": "CDN for City of Heroes (Homecoming)",
       "domain_files": ["cityofheroes.txt"]
