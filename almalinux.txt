@@ -1,0 +1,10 @@
+almalinux.gb.ssimn.org
+uk.mirrors.clouvider.net
+mirrors.melbourne.co.uk
+lon.mirror.rackspace.com
+mirror.netweaver.uk
+gb.mirrors.cicku.me
+mirrors.gethosted.online
+b4sh.mm.fcix.net
+mirrors.coreix.net
+mirror.cov.ukservers.com
