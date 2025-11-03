@@ -1,0 +1,2 @@
+dl.rockylinux.org
+download.rockylinux.org

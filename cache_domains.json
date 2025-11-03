@@ -88,6 +88,11 @@
       "domain_files": ["rockstar.txt"]
     },
     {
+      "name": "rockylinux",
+      "description": "Mirrors for Rocky Linux",
+      "domain_files": ["rockylinux.txt"]
+    },
+    {
       "name": "sony",
       "description": "CDN for Sony/PSN",
       "domain_files": ["sony.txt"]
